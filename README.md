@@ -7,7 +7,7 @@ Get the latest version of LimeZeta,
 DARK ⚫ or WHITE ⚪ :
 ### [LATEST RELEASE](https://github.com/TheLaval/LimeZeta/releases/latest)
 ‎ 
-## Mod
+## Usage Mods
 ### Can be used on :
 - [Vendroid](https://github.com/Vencord/Vendroid)
 - [Vendetta](https://github.com/vendetta-mod/Vendetta)
@@ -15,6 +15,6 @@ DARK ⚫ or WHITE ⚪ :
 - [Aliucord](https://github.com/Aliucord/Aliucord)
 
 ‎ 
-## Credit
+## Credits
 Author: lavalmc
 Template: AnimeVisionVendetta (denji6969)
