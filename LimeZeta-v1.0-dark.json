@@ -1,7 +1,7 @@
 {
   "name": "LimeZeta (Dark)",
   "version": "1.0-dark",
-  "description": "A Lime Green and Yellow dark theme for Vendetta.",
+  "description": "A Lime Green and Yellow dark theme for Discord Mods.",
   "authors": [
     {
       "name": "@lavalmc",
@@ -19,7 +19,7 @@
     "BACKGROUND_SECONDARY": ["#133B1A"],
     "BACKGROUND_SECONDARY_ALT": ["#194F23"],
     "BACKGROUND_TERTIARY": ["#1E5727"],
-    "BACKGROUND_ACCENT": ["#86C547"],
+    "BACKGROUND_ACCENT": ["#82C46C"],
     "BACKGROUND_FLOATING": ["#1A4523"],
     "BACKGROUND_MOBILE_PRIMARY": ["#0B2D13"],
     "BACKGROUND_MOBILE_SECONDARY": ["#133B1A"],
