@@ -10,10 +10,10 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": ["#B1E0B5"],
-    "TEXT_NORMAL": ["#375C37"],
-    "TEXT_MUTED": ["#6A8E59"],
+    "TEXT_NORMAL": ["#000000"],
+    "TEXT_MUTED": ["#333333"],
     "TEXT_DANGER": ["#A37F19"],
-    "TEXT_LINK": ["#8ACF3F"],
+    "TEXT_LINK": ["#000000"],
     "BG_BACKDROP": ["#F0F5F0"],
     "BACKGROUND_PRIMARY": ["#F9FBF9"],
     "BACKGROUND_SECONDARY": ["#E5F2E5"],
